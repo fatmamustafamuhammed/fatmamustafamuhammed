@@ -25,10 +25,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatmamustafamuhammed&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmamustafamuhammed&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamustafamuhammed&theme=radical" />
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <!-- Left Card -->
+  <div style="flex: 1; min-width: 300px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatmamustafamuhammed&show_icons=true&theme=radical&count_private=true" />
+  </div>
+  
+  <!-- Right Cards Stacked -->
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; gap: 20px;">
+    <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmamustafamuhammed&layout=compact&theme=radical" />
+    <img height="80em" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamustafamuhammed&theme=radical" />
+  </div>
 </div>
 
 ## 📫 Let's Connect
