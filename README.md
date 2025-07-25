@@ -33,8 +33,8 @@
   
   <!-- Right Cards Stacked -->
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; gap: 20px;">
-    <img height="95em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmamustafamuhammed&layout=compact&theme=radical" />
-    <img height="95em" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamustafamuhammed&theme=radical" />
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmamustafamuhammed&layout=compact&theme=radical" />
+    <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=fatmamustafamuhammed&theme=radical" />
   </div>
 </div>
 
