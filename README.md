@@ -1,4 +1,4 @@
-<h1 align="center">🅷🅸 <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> 🅸'🅼 &nbsp;🅵🅰🆃🅼🅰&nbsp; 🅼🆄🆂🆃🅰🅵🅰</h1><h3 align="center">Front-End Developer | React.js Developer</h3>
+<h1 align="center">🅷🅸 <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50"/> 🅸'🅼 &nbsp;🅵🅰🆃🅼🅰&nbsp; 🅼🆄🆂🆃🅰🅵🅰</h1><h3 align="center">Front-End Developer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Web+Developer;" alt="Typing SVG" />
