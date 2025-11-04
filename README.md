@@ -6,7 +6,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://github.com/fatmamustafamuhammed" target="_blank" rel="noopener noreferrer">
@@ -38,7 +38,7 @@
 
 </p>
 
-## 💡 Today's Inspiration
+## Today's Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily quote" />
